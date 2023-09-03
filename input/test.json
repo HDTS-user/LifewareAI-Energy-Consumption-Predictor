@@ -1,0 +1,13 @@
+{
+   "Global_active_power":2.58,
+   "Voltage":241.97,             
+   "Global_intensity":10.6,     
+   "Sub_metering_1":0,
+   "Sub_metering_2" :0,
+   "Sub_metering_3":0.0,
+   "Month":1,                 
+   "Year":2007,                   
+   "Week":1,                  
+   "hour":1,                  
+   "minute":1
+}
